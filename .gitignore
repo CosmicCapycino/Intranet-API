@@ -42,3 +42,6 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+intranet.db
+intranet.db-shm
+intranet.db-wal
