@@ -13,5 +13,6 @@
         public DateTime? LastLogin { get; set; }
         public string Department { get; set; }
         public string JobTitle { get; set; }
+        public RefreshToken? RefreshToken { get; set; }
     }
 }
